@@ -1,4 +1,5 @@
 # Fraction.py  creates a class of fractions that can be used for operations
+
 class Fraction:
 
     def __init__(self, num, den):
